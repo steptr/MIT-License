@@ -1,4 +1,4 @@
-*SCROLL DOWN THE PAGE FOR ITALIAN TEXT*
+*SCROLL DOWN THE PAGE FOR OTHER LANGUAGE TEXT*
 
 This repository includes my translation of the open source license "MIT License Expat" from English into Italian.
 
@@ -25,3 +25,17 @@ Se non altrimenti specificato, tutti i file di questo repository sono resi dispo
 * http://it.wikipedia.org/wiki/Wikipedia:Testo_della_Creative_Commons_Attribuzione-Condividi_allo_stesso_modo_3.0_Unported
 
 Se volete fare commenti o indicare correzioni della mia traduzione create una  [richiesta di controllo](../../issues).
+
+---
+
+repositori ini merupakan terjemahan [Arie Kurniawan](https://github.com/Lidilidian) dari lisensi sumber terbuka "Lisensi Expat MIT" dari bahasa Inggris ke Indonesia.
+
+Sumber file lisensi Inggris itu diambil pada 2016/11/01 dari https://en.wikipedia.org/wiki/MIT_License.
+
+Kecuali ada ketentuan lain, semua file dalam repositori ini tersedia di bawah Creative Commons Attribution-ShareAlike License CC-A-SA; persyaratan tambahan mungkin berlaku.
+
+* http://creativecommons.org/licenses/
+
+* https://id.wikipedia.org/wiki/Lisensi_Creative_Commons
+
+Jika Anda memiliki komentar dan koreksi tentang terjemahan ini silakan membuat entri pelacakan masalah (buat issue).
